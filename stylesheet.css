@@ -1,0 +1,23 @@
+body {
+    background-color: #333; /* dark gray background */
+    font-family: Arial, sans-serif; /* sans-serif font for a futuristic feel */
+    color: #ccc; /* light gray text color */
+}
+
+img {
+    border: 1px solid #666; /* dark gray border around the image */
+    box-shadow: 0 0 10px #000; /* dark shadow around the image */
+    display: block;
+    margin: 0 auto;
+    max-width: 50%; /* set the maximum width to 50% of the parent element */
+    height: auto; /* maintain the aspect ratio */
+}
+
+p {
+    font-size: 18px; /* larger font size for the description */
+    text-align: center; /* justify the text to give it a more ominous feel */
+    margin: 20px; /* add some space around the paragraph */
+    background-color: #444; /* dark gray background for the paragraph */
+    padding: 10px; /* add some padding around the paragraph text */
+    border: 1px solid #666; /* dark gray border around the paragraph */
+}
